@@ -1,6 +1,6 @@
 # Covid-19 Tracker Application
 
-Tutorial: https://www.youtube.com/watch?v=khJlrj3Y6Ls
+Tutorial: https://www.youtube.com/watch?v=khJlrj3Y6Ls \
 Live-url: https://covid19-tracker-app-v0.netlify.app/
 
 # Getting Started with Create React App
